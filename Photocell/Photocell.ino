@@ -1,4 +1,4 @@
-//www.elegoo.com
+6//www.elegoo.com
 //2016.12.9
 
 int lightPin = 0;
